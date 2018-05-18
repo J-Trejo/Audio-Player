@@ -1,0 +1,1 @@
+This web-application is a Spotify-like audio player. A multi-view app to help cement my skills with React and React Router. Additionally, allowed me to practice some more advance user interactions, like managing the play state. There is a small back-end  where the front end loads the data from a small express server.
